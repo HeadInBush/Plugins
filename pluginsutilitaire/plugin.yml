@@ -1,0 +1,10 @@
+main: fr.xivklott.utils.Main
+author: XIVKlott
+version: 1.3
+name: SmilePrison
+commands: 
+  bvn: 
+    aliases: [bienvenue]
+    description: Dit bienvenue
+  smileprison: 
+    description: Info du plugin
